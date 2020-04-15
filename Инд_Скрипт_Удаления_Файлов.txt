@@ -1,0 +1,3 @@
+echo off
+del Nikitin /S /Q /F
+pause

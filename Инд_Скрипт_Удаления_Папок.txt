@@ -1,0 +1,9 @@
+echo off
+cd_Nikitin
+cd_Nikita
+rd_Sergeevich
+cd ..
+rd_Nikita
+cd ..
+rd_Nikitin
+pause

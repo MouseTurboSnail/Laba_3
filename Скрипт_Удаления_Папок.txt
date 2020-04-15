@@ -1,0 +1,9 @@
+echo off
+cd_firstcat
+cd_secondcat
+rd_thirstcat
+cd ..
+rd_secondcat
+cd ..
+rd_firstcat
+pause

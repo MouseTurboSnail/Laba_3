@@ -1,0 +1,7 @@
+echo off 
+cd Nikitin
+echo > 22091998.txt
+cd Nikita
+cd Sergeevich
+echo > 659956.txt
+pause

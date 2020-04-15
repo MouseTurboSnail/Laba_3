@@ -1,0 +1,10 @@
+echo off 
+rem create new catalog
+md Nikitin
+rem go to into new catalog
+cd Nikitin
+md Nikita
+cd Nikita
+md Sergeevich
+rem this need for pause of programm
+pause
